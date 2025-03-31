@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+My own title: Welcome to my blog (is this is really a blog 🤭)
 ---
 
